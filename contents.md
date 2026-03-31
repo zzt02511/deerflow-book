@@ -36,7 +36,7 @@
 
 ## 第七部分：Skills 体系
 
-- [第 17 章　Skills 系统：能力的核心扩展单元](/chapters/17-skills-system)
+- [第 17 章　Skills 系统：能力的核心扩展单元](chapters/17-skills-system.md)
 - [第 18 章　编写自定义 Skill](/chapters/18-custom-skills)
 
 ## 第八部分：通信层与 Gateway
