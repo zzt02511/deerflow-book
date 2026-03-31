@@ -2,14 +2,14 @@
 
 ## 第一部分：宏观认知
 
-- [第 1 章　DeerFlow 是什么，为什么重要](/chapters/01-what-is-deerflow)
-- [第 2 章　仓库全景与技术栈](/chapters/02-repo-overview)
-- [第 3 章　快速上手](/chapters/03-quick-start)
+- [第 1 章　DeerFlow 是什么，为什么重要](chapters/01-what-is-deerflow)
+- [第 2 章　仓库全景与技术栈](chapters/02-repo-overview)
+- [第 3 章　快速上手](chapters/03-quick-start)
 
 ## 第二部分：核心引擎
 
-- [第 4 章　LangGraph 引擎：图驱动的 Agent 编排](/chapters/04-langgraph-engine)
-- [第 5 章　Lead Agent：大脑的核心循环](/chapters/05-lead-agent)
+- [第 4 章　LangGraph 引擎：图驱动的 Agent 编排](chapters/04-langgraph-engine.md)
+- [第 5 章　Lead Agent：大脑的核心循环](chapters/05-lead-agent)
 - [第 6 章　11 层中间件管道：Agent 的神经系统](/chapters/06-middleware-pipeline)
 - [第 7 章　Context Engineering：上下文工程](/chapters/07-context-engineering)
 
